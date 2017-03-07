@@ -1,2 +1,53 @@
 desenvolvimento do documento para realizar o projeto 2rca 2º semestre de redes
 dd
+1. TITULO DO PROJETO <TITULO PROJETO>
+
+< Ideia central do projeto>
+
+2. DESCRIÇÃO DO PROJETO <DESCREVE EM LINHAS GERAIS O PROJETO>
+
+<Descrição do que será entregue ao final do projeto com o foco em contextualizar o leitor. >
+
+3. MOTIVAÇÃO/JUSTIFICATIVA <JUSTIFIQUE A NECESSIDADE DE SE FAZER ESTE PROJETO>
+
+< Funciona como uma introdução ao projeto, com foco em “justificar” as suas reais necessidades, benefícios, desejos, problemas e sonhos.>
+
+4. OBJETIVOS DO PROJETO <INCLUIR OS PRINCIPAIS OBJETIVOS DO PROJETO, INCLUINDO OBJETIVOS MENSURÁVEIS>
+
+< O foco principal do projeto, podendo ser geral e/ou específico.>
+
+5. ESCOPO <O QUE SERÁ ENTREGUE, QUAIS FUNCIONALIDADES O APLICATIVO TERÁ>
+
+< Defina com clareza qual o objetivo do projeto;
+
+Certifique o entendimento “consenso” entre os stakeholders;
+
+Revise se todos os requisitos são suficientes para a resolução do problema (o que deve ser feito);
+
+Retire os requisitos que não agregam valor ao projeto (o que não deve ser feito), principalmente os não declarados pelo cliente;
+
+Seja realista com relação ao tempo, o custo e a qualidade. Cuidado com a “cereja do bolo”.>
+
+6. STAKEHOLDERS <QUEM INFLUENCIARÁ OU SERÁ INFLUENCIADO PELO PROJETO?>
+
+7. PÚBLICO ALVO <QUEM SÃO OS FUTUROS USUÁRIOS DO PROJETO>
+
+<Comece definindo o perfil de cada cliente/usuário/função/regra de negócio e, não nas pessoas. Lembre-se que um perfil tem papéis em um determinado cenário.
+
+Após os perfis definidos, é hora de relacionar / criar o ciclo de vida da informação e associá-la a cada perfil.>
+
+8. PREMISSAS/RESTRIÇÕES BÁSICAS <PONTOS DE PARTIDA. O QUE É CONSIDERADO PARA QUE O PROJETO TENHA SUCESSO EM SEU DESENVOLVIMENTO>
+
+<As premissas partem do pressuposto que para o planejamento certos fatores são verdadeiros “dados como certos”, por exemplo, os recursos estarão disponíveis.
+
+As restrições limitam as opções da equipe de gestão de projetos e em linhas gerais são requisitos obrigatórios, por exemplo, relacionadas a limites de tempo e custos do projeto.>
+
+9. RISCOS INICIAIS <AMEAÇAS EVIDENTES AO PROJETO QUE PODEM PROVOCAR ATRASOS, CANCELAMENTOS ETC>
+
+<O Risco está associado a um evento ou condições incertas e geralmente terá um efeito negativo sobre o projeto. Devemos identificar, analisar, planejar, monitorar e executar ações para cada risco, pois caso um deles venha a se concretizar, devemos ter planos de ação para que o risco seja mitigado ou eliminado.>
+
+10. COMPARATIVO DE MERCADO <OUTROS PRODUTOS SEMELHANTES NO MERCADO E SEUS DIFERENCIAIS>
+
+<Realizar comparativo com outros produtos de mercado procurando dar enfoque nas funcionalidades semelhantes e nas vantagens e desvantagens em relação a elas. Caso não exista concorrente direto, descrever o produto mais próximo da solução sendo desenvolvida.>
+
+11. CONOGRAMA MACRO <CONOGRAMA MACRO DO PROJETO – MOSTRAR AS PRINCIPAIS ATIVIDADES EXECUTADAS NO TEMPO> (MESES)
