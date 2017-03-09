@@ -1,0 +1,21 @@
+rto > tempo para recuperar o serviço
+rpo >
+contigência
+PMIT periodo max de interrupção
+Ac ativo de contigencia ,alternativa caso fique sem serviço.
+PMOC                              quanto tempo pode ser mantido o "AC" sem impacto
+P>R prioridade de recuperação ,orden definida para a prioridade de ativos a ser restabelecida
+pergunta para empresa
+oque vc faria se sua impresa inesperada?
+ comandos vim
+ :%s/palavrabuscada/nomeamudadr/g  >mudar o nome da palavrabuscada para o nomeamudar em todo o arquivo
+ 
+ defina os seguintee termos 
+ 
+ host = maquina ou dispositivo que usa um serviço em uma rede
+ endereço ip = endereço logico de um dispositivo em rede 
+ rede = conjunto de dispositivo interligado para comnicar e compartilhar recursos.
+ mascara de rede s
+ gateway 
+ dns sistema de tradução de nomes logicos para dominio
+ 
