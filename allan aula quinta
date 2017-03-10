@@ -14,8 +14,10 @@ oque vc faria se sua impresa inesperada?
  
  host = maquina ou dispositivo que usa um serviço em uma rede
  endereço ip = endereço logico de um dispositivo em rede 
- rede = conjunto de dispositivo interligado para comnicar e compartilhar recursos.
+ rede = conjunto de dispositivo interligado com a finalidade de se  comunicarem  e compartilhar recursos.
  mascara de rede s
- gateway 
- dns sistema de tradução de nomes logicos para dominio
+ gateway dispositivocom responsabilidade 
+ dns sistema de tradução de endereços logicos "IP" para nome de dominios "WWW"
+ 
+ 
  
