@@ -1,0 +1,14 @@
+Avaliação semestral
+escreva um programa que inicie pegunatando ao usuario "qual a senha do cofre?"
+A senha pode conter letras e numeros ou ser vazia,
+Solicite que o usuario informe "quanto vai guardar no cofre? e leia um valor real.
+em seguida pergunte ao usuario !para abrir o cofre entre com a senha".
+se o usuario falhar na senha por 3 vezes " o cofre vai esplodir!! #assalto fail"
+encerre apos isso.
+
+public class CofreBomba{
+String senha, contraSenha;
+double dinheiro, saque = 0;
+int falha = 0;
+senha = JOptionPane.showImputDialog("Qual a senha do cofre);
+dinheiro = Double.valueOf(JOptionPane.showImputDialog("Quanto Dinheiro vai guardar no cofre?");
