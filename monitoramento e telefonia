@@ -1,26 +1,31 @@
-desenvolvimento do documento para realizar o projeto 2rca 2º semestre de redes
+desenvolvimento do documento para realizar o projeto 2rca 2º semestre de redes em cojunto com 5RCA
 
 1.TITULO <PROJETO DE MONITORAMENTO DE ATIVOS EM REDES>
 
-IDEIA DE < PROVER UM GERENCIAMENTO DE ATIVO EM REDES DE FORMA UNIFORME E CENTRALIZADA >
+IDEIA < PROVER UM GERENCIAMENTO DE ATIVO EM REDES DE FORMA UNIFORME, CENTRALIZADA e AGIL >
 
 2. DESCRIÇÃO DO PROJETO <DESCREVE EM LINHAS GERAIS O PROJETO>
 
 <Descrição do que será entregue ao final do projeto com o foco em contextualizar o leitor. >
 
-ao final do projeto o ambiente terá a sua disposição o monitaramento de todos os computadores, roteadores, swicth, servidores e
+ao final o cliente terá a sua disposição um ambiente com monitaramento de todos os computadores, roteadores, swicth, servidores e
 servicos gerenciados de forma centralizada ,fortalecendo a continuidade de negocio provida pela imprantação do monitoramento de
 ativos em redes.
-
-
 
 3. MOTIVAÇÃO/JUSTIFICATIVA <JUSTIFIQUE A NECESSIDADE DE SE FAZER ESTE PROJETO>
 
 < Funciona como uma introdução ao projeto, com foco em “justificar” as suas reais necessidades, benefícios, desejos, problemas e sonhos.>
+atualmente em uma infraestrutura de rede de médio porte ,facilmente encontramos ativos de redes em quantidades elevadas, e tendo 
+sua maior dificuldade a gestao de recursos e performace de rede ,onde o administrador depara se,com o desafio de manter a manutenção 
+de redes, sem um sistema de monitoramento de redes inadequado para a realidade encontrada atualmente em ambiente cada vezes mais
+virtualizado e o advento da internet das coisas e de tudo,torna o uso do monitoramento de redes recomendado para mensuarar de forma ágil
+uniforme e centralizada os ativos em uma redede dados.
 
 4. OBJETIVOS DO PROJETO <INCLUIR OS PRINCIPAIS OBJETIVOS DO PROJETO, INCLUINDO OBJETIVOS MENSURÁVEIS>
 
 < O foco principal do projeto, podendo ser geral e/ou específico.>
+tendo como objetivos agilizar o monitoramento em uma rede de dados,medir seu desempenho,criar avisos de falhas de comunicação,
+geração de graficos ,tabelas e alarmes ,dentro de um dashbord rico em detalhe,funcionalidades,configuraçõe e alarmes de facil acesso. 
 
 5. ESCOPO <O QUE SERÁ ENTREGUE, QUAIS FUNCIONALIDADES O APLICATIVO TERÁ>
 
